@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/MyApp/Form1.cs) (VB: [Form1.vb](./VB/MyApp/Form1.vb))
+* [Program.cs](./CS/MyApp/Program.cs) (VB: [Program.vb](./VB/MyApp/Program.vb))
+<!-- default file list end -->
 # How to make internal strings in my application localizable
 
 
